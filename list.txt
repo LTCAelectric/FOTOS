@@ -313,6 +313,7 @@ I-195_1.png
 I-198_1.png
 I-203_1.png
 I-205_1.png
+list.txt
 Listado.txt
 LIT-A070_1.jpeg
 LIT-A071_1.jpeg
